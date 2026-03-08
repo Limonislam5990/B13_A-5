@@ -1,5 +1,14 @@
-1. What is the difference between var, let, and const? 
-answer :  var holo old vertion but ar let holo new vertion
+1 What is the difference between var, let, and const?
+var is function-scoped, while let and const are block-scoped, but const cannot be reassigned.
 
-2. What is the spread operator (...)?
-answer : Spread operator (...) holo emon ekta tool ja kono array ba object er sob data gula ke  kore ba bhenge onno kothao boshiye dite pare
+2️ What is the spread operator (...)?
+The spread operator ... is used to expand or copy elements of an array or object.
+
+3️ What is the difference between map(), filter(), and forEach()?
+map() returns a new array, filter() returns elements that match a condition, and forEach() just loops without returning a new array.
+
+4️ What is an arrow function?
+An arrow function is a shorter syntax for writing functions using =>.
+
+5️ What are template literals?
+Template literals use backticks ` ` and allow embedding variables using ${} inside strings.
